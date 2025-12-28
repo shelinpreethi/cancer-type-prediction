@@ -77,6 +77,7 @@ Evaluation & Interpretation
 ✔ Strong predictive performance across major cancer types
 ✔ Demonstrates cancer-specific transcriptomic signatures
 ✔ Validates machine learning applicability in genomics
+![Confusion Matrix: Predicted Cancer Types](assets/myplot.png)
 
 ▶️ How to Run
 ```bash
